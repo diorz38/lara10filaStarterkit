@@ -5,7 +5,7 @@
 /public/storage
 /storage/*.key
 /vendor
-/database/csvs
+/database/csvs/*.csv
 .env
 .env.backup
 .env.production
