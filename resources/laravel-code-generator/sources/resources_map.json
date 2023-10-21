@@ -1,0 +1,12 @@
+[
+    {
+        "model-name": "Penduduk",
+        "resource-file": "penduduks.json",
+        "table-name": "penduduk"
+    },
+    {
+        "model-name": "MetaCode",
+        "resource-file": "meta_codes.json",
+        "table-name": "meta_codes"
+    }
+]
